@@ -67,7 +67,7 @@
       "properties": {
         "wizardCoder.apiEndpoint": {
           "type": "string",
-          "default": "https://localhost:5000/api/v1/generate",
+          "default": "http://localhost:5000/api/v1/generate",
           "description": "API endpoint for the Wizard Coder extension."
         }
       }
